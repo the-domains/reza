@@ -1,0 +1,14 @@
+layout_spectrum: 0.5359642873518169
+typography_spectrum: 0.2869317608419806
+color:
+  brandStrength: 0.42809888860210776
+  lightness: 0.45739590702578425
+  saturation: 0.7188824987970293
+  rhythmicContrast: 0.3892615200020373
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: reza
