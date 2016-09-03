@@ -1,4 +1,3 @@
-layout_spectrum: 0.5359642873518169
 typography_spectrum: 0.2869317608419806
 color:
   brandStrength: 0.42809888860210776
@@ -11,4 +10,6 @@ color:
     - '#CC4452'
     - '#723147'
     - '#31152B'
+layout_spectrum: 0.5359642873518169
 name: reza
+title: sail i go
