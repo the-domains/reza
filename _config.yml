@@ -1,15 +1,15 @@
-typography_spectrum: 0.2869317608419806
+layout_spectrum: 0.5300603017676622
+typography_spectrum: 0.19323564576916397
 color:
-  brandStrength: 0.42809888860210776
-  lightness: 0.45739590702578425
-  saturation: 0.7188824987970293
-  rhythmicContrast: 0.3892615200020373
+  brandStrength: 0.9393278507050127
+  lightness: 0.9169600335881114
+  saturation: 0.8022145931608975
+  rhythmicContrast: 0.9239938999526203
   brandColors:
-    - '#F9E4AD'
-    - '#E6B098'
-    - '#CC4452'
-    - '#723147'
-    - '#31152B'
-layout_spectrum: 0.5359642873518169
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 name: reza
 title: getting there
